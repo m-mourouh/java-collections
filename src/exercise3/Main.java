@@ -14,12 +14,18 @@ public class Main {
         groupeA.add("John");
         groupeA.add("Mark");
 
+        //Display groupeA
+        System.out.println("Groupe A: " + groupeA);
+
         //Add students names to groupeB
         groupeB.add("Ahmed");
         groupeB.add("Alexis");
         groupeB.add("Mariam");
         groupeB.add("Markos");
         groupeB.add("Alexandre");
+
+        //Display groupeB
+        System.out.println("Groupe B: " + groupeB);
 
         //Intersection between groupeA and groupeB
         HashSet<String> intersection = new HashSet<>(groupeA);
