@@ -7,3 +7,6 @@
 
 ## Exercise 2: Maps
 ![image](https://github.com/m-mourouh/java-collections/assets/60442896/176087de-5d35-45d6-a08f-e2fe0b96ed2a)
+
+## Exercise 3: Sets
+![image](https://github.com/m-mourouh/java-collections/assets/60442896/86bb9d91-7a02-4952-ab35-3e22f24fd981)
